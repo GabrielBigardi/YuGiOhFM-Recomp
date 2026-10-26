@@ -1,0 +1,68 @@
+{
+ "comment": "Code overlays the game reads from its archives to fixed addresses: disc file, byte offset, size, load address.",
+ "overlays": [
+  {
+   "name": "su_031000",
+   "file": "DATA/SU.MRG",
+   "offset": "31000",
+   "size": "8000",
+   "base": "80180000"
+  },
+  {
+   "name": "su_263800",
+   "file": "DATA/SU.MRG",
+   "offset": "263800",
+   "size": "8000",
+   "base": "80180000"
+  },
+  {
+   "name": "wa_b61800",
+   "file": "DATA/WA_MRG.MRG",
+   "offset": "B61800",
+   "size": "1800",
+   "base": "80168000"
+  },
+  {
+   "name": "wa_ba9000",
+   "file": "DATA/WA_MRG.MRG",
+   "offset": "BA9000",
+   "size": "16000",
+   "base": "80146000"
+  },
+  {
+   "name": "wa_f6d000",
+   "file": "DATA/WA_MRG.MRG",
+   "offset": "F6D000",
+   "size": "2800",
+   "base": "80168000"
+  },
+  {
+   "name": "wa_f90000",
+   "file": "DATA/WA_MRG.MRG",
+   "offset": "F90000",
+   "size": "7800",
+   "base": "80168000"
+  },
+  {
+   "name": "wa_fbb000",
+   "file": "DATA/WA_MRG.MRG",
+   "offset": "FBB000",
+   "size": "7800",
+   "base": "80168000"
+  },
+  {
+   "name": "wa_fec800",
+   "file": "DATA/WA_MRG.MRG",
+   "offset": "FEC800",
+   "size": "3000",
+   "base": "80168000"
+  },
+  {
+   "name": "wa_103b800",
+   "file": "DATA/WA_MRG.MRG",
+   "offset": "103B800",
+   "size": "3000",
+   "base": "80168000"
+  }
+ ]
+}

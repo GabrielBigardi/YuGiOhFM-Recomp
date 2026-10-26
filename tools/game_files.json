@@ -1,0 +1,8 @@
+{
+ "comment": "SHA-256 of what the recompiled code is generated from (Yu-Gi-Oh! Forbidden Memories, PS1, USA, SLUS-01411): the executable, and digests (tree_digest in build.py) of the code overlays read from DATA/WA_MRG.MRG and DATA/SU.MRG (extract/ovl) and of the monster-model code read from DATA/MODEL.MRG and DATA/SU.MRG (extract/models).",
+ "files": {
+  "SLUS_014.11": "84a54ed74f3d0edd6d81380839f7e4ef5bfb21ecea18be9a062bd6bfa5a45c88"
+ },
+ "overlays": "fb0d64f10cfe00758276d22c09916ececd9a366c74f590ca2220c2bdb30cbe47",
+ "models": "30c73973cec607f435157df8ece652455c1b6caf5cbb3e8241db391a7dba7b0d"
+}
